@@ -12,7 +12,7 @@ I'm a full-stack student at @Trybe looking for opportunities and collaboration o
 
 
 ### Minhas Hard Skills
-<div style="display: inline; margin: 20px">
+<div style="display: inline; margin: 200px">
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
