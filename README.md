@@ -1,8 +1,7 @@
 ### Hi 👋
 
 I'm a full-stack student at @Trybe looking for opportunities and collaboration on projects related to web development.
-
-- 🔭 I am currently studying in Module 1 of Fundamentals of Web Development.
+- 🔭 I'm currently studying the second Front-end module.
 - 🌱 I'm currently learning Computer Vision techniques using methodologies and practices to solve real problems in the job market.
 - 🤝 I'm looking to collaborate on data science and deep learning projects.
 
