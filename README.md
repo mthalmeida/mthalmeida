@@ -1,7 +1,7 @@
 
 ## 🚀 Hello world, I'm Matheus! 👋
 
-I'm a full-stack student at @Trybe looking for opportunities and collaboration on projects related to web development.
+I'm a web development enthusiast with full-stack skills, passionate about creating innovative and impactful solutions. I'm looking for new opportunities to collaborate on challenging projects and be part of teams looking to take the digital experience to the next level.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mthalmeida.github.io/portifolio//) [![linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthalmeida/) [![instagram](https://img.shields.io/badge/instagram-db7093?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mthalmeida/) [![whatsapp](https://img.shields.io/badge/whatsapp-009063?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531994405788&text=Ol%C3%A1,%20vim%20pelo%20seu%20perfil%20do%20GitHub!) [![email](https://img.shields.io/badge/email-f34434.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.almeida.neves@gmail.com?subject=&body=)
 
